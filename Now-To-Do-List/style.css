@@ -1,6 +1,6 @@
 :root {
-    --color-1: #8052ec;
-    --color-2: #d161ff;
+    --color-1: #52ec97;
+    --color-2: #61fff2;
 }
 
 *,
@@ -38,7 +38,7 @@ body{
 #taskInput {
     width: 75%;
     height: 70%;
-    border: 2px solid #d1d3d4;
+    border: 2px solid var(--color-2);
     padding: 18px;
     color: #111111;
     position: relative;
